@@ -1,0 +1,1 @@
+Auto enter steamgifts , input your steamgifts cookie in ConstVar.py file, type bash run.sh in command line.  
